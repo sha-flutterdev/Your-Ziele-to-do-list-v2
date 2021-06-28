@@ -27,7 +27,7 @@
 <p align="justify">After storing your data, eventually you will need to access it and each storage method has slightly different levels of accessibility. Local storage is accessible in any window or tab that is open to your site. This means if you store some data in local storage on one tab of your browser that same local storage data will be available on all other tabs and windows you have open to that site.</p>
 
 <h2 align="left">3.	Authentic Splash screen:</h2>
-<p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123594072-de8e3180-d80c-11eb-8652-e543ab6257a5.png"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123597234-b3a5dc80-d810-11eb-9a96-9d989c88a2b4.png"> </p>
 
 <ol>
   
@@ -43,13 +43,15 @@
 
 
 <h2 align="left">4.	Displays current Date and Time:</h2>
-<p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123594072-de8e3180-d80c-11eb-8652-e543ab6257a5.png"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123597267-c0c2cb80-d810-11eb-9379-5d51aeb93136.png"> </p>
 
 <p align="justify">We have displayed the current time and date which helps in understanding that when our notes have been organized. This is done with the help of vanilla JavaScript.</p>
  
 <h2 align="left">5.	Responsive, on all devices:</h2>
  
- <p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123594072-de8e3180-d80c-11eb-8652-e543ab6257a5.png"> </p>
+ <p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123597336-d801b900-d810-11eb-92cb-6377271c5ff7.png"></p>
+
+  <p align="center">  <img src="https://user-images.githubusercontent.com/83126866/123597710-4d6d8980-d811-11eb-9756-15217a62aec3.png"> </p>
  
 •	Our webpages are responsive & user-friendly, which means it will automatically adjust according to your device screen size and you will find stuff without any hustle. 
 
@@ -60,15 +62,33 @@
 •	It also replaces your need to design multiple websites dedicated to different devices.
 
 <h2 align="left">6.	Quickly add your tasks :</h2>
-<p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123594072-de8e3180-d80c-11eb-8652-e543ab6257a5.png"> </p>
+
+<p align = "center"> 
+<img src="https://user-images.githubusercontent.com/83126866/123598583-4eeb8180-d812-11eb-9f7f-bbbb81f03787.png"> 
+
+  
+<img src="https://user-images.githubusercontent.com/83126866/123599162-efda3c80-d812-11eb-8ffc-0f17b386e7a2.png">
+  
+</p>
         
-<p align="justify"> The basic functionality of the app is built around a user’s ability to create the list of tasks which can be saved for the particular date and time, easily deleted or marked complete. In addition, Upper analyses task completion progress and shows stats to keep users updated and motivated. The absence of distractions, simple screen design and thought-out typography make the content highly readable and allow using the app easily in any environment and on-the-go. </p>
+<p align="justify"> The basic functionality of the app is built around a user’s ability to create the list of tasks which can be saved for the particular date and time, easily deleted or marked complete. In addition, Upper analyses task completion progress and shows stats to keep users updated and motivated. The absence of distractions, simple screen design and thought-out typography make the content highly readable and allow using the app easily in any environment and on-the-go.</p>
+
+<p align = "center"> 
+<img src="https://user-images.githubusercontent.com/83126866/123599351-20ba7180-d813-11eb-970e-bda9f91bd4bc.png">
+
+<img src="https://user-images.githubusercontent.com/83126866/123599399-2d3eca00-d813-11eb-804b-49f68d7f9c00.png">
+
+</p>
 
             
 
 <h2 align="left">7.	Themes: Users can choose among different themes:</h2>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123594072-de8e3180-d80c-11eb-8652-e543ab6257a5.png"> </p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/83126866/123600894-b99dbc80-d814-11eb-9ab4-65e24efc3ef9.png"> 
+<img src="https://user-images.githubusercontent.com/83126866/123600530-66c40500-d814-11eb-9ef1-33bf599a0f49.png">
+<img src="https://user-images.githubusercontent.com/83126866/123600677-8824f100-d814-11eb-91ba-a39212d7a93b.png">
+</p>
 
 •	The theme design is performed in the minimalist and elegant style of the layout based deeply on quick functionality and intuitive navigation. 
 
@@ -81,7 +101,10 @@
 
 <h2 align="left">8.	Delete Tasks:</h2>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/83126866/123594072-de8e3180-d80c-11eb-8652-e543ab6257a5.png"> </p>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/83126866/123602235-29607700-d816-11eb-9d1f-05ffd97ab7e4.png" ><span style="display:inline-block;"> 
+<img src="https://user-images.githubusercontent.com/83126866/123602277-32e9df00-d816-11eb-901e-8aa4bd88a68f.png" ></span>
+</p>
 
 We can delete a single task. It allows you to remove tasks (without having to complete them), or if you want to clean up your completed section.
 
